@@ -1,0 +1,121 @@
+
+body{
+    background-color: rgb(214, 227, 227);
+}
+img {
+    width: 8vh;
+    height: 5vh;
+}
+.off img{
+    height: 60vh;
+    width: 213vh;
+    border-radius: 3vh;
+}
+.eximg{
+    display: flex;
+    gap: 1vh;
+}
+.eximg1 img{
+    height: 80vh;
+    width: 106vh;
+    border-radius: 3vh;
+}
+.eximg2 img{
+    height: 80vh;
+    width: 106vh;
+    border-radius: 3vh;
+}
+.div1
+{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 50vh;
+}
+.div1 .apt{
+    display: flex;
+    justify-content: space-between;
+    gap: 8vh;
+}
+.stname{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+.stname p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    gap: 21vh;
+}
+.div2 .opt1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;  
+    padding: 20px;
+    
+}
+.div2 button{
+    width: 10vh;
+    height: 5vh;
+    border-radius: 3vh;
+    background-color: rgb(109, 155, 156);
+    border: none;
+}
+.div2 .opt1 p{
+    border-radius: 50px;
+    height: 5vh;
+    width: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div3 img{
+    height :140vh;
+    width: 213vh;
+    border-radius: 3vh;
+}
+.div1 .apt a{
+    background-color: rgb(109, 155, 156);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 90px;
+    height: 10vh;
+    width: 10vh;
+}
+.cat select{
+    width: 20vh;
+    height: 5vh;
+    border-radius: 3vh;
+    background-color:  rgb(109, 155, 156);
+    border: none;
+}
+.npro select{
+    width: 20vh;
+    height: 5vh;
+    border-radius: 3vh;
+    border: none;
+    background-color:  rgb(109, 155, 156);
+}
+.searchbar input{
+    width: 35vh;
+    height: 5vh;
+    border-radius: 3vh;
+    border: none;
+    background-color:  rgb(109, 155, 156);
+}
+.childimg{
+    display: flex;
+    gap: 1vh;
+}
+.cimg1 img {
+    width: 213vh;
+    height: 100vh;
+    border-radius: 3vh;
+}

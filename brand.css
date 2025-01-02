@@ -1,0 +1,121 @@
+.imagediv button img{
+    width:50vh ;
+    height: 60vh;
+}
+img {
+  width: 8vh;
+  height: 5vh;
+}
+.div1 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 50vh;
+}
+
+.div1 .apt {
+  display: flex;
+  justify-content: space-between;
+  gap: 8vh;
+}
+.div1 .apt a{
+  background-color:  rgb(109, 155, 156);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 90px;
+  height: 10vh;
+  width: 10vh;
+}
+
+.stname {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
+.div1 .stname p {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.imagediv .outer1,.outer2,.outer3,.outer4{
+   height: 75vh;
+}
+.imagediv p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#gender{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div4,.div5{
+    position: relative;
+    display: flex;
+    gap: 1vh;
+}
+  .inner1{
+    position: absolute;
+    bottom: 10px;
+    height: 24px;
+    left: 100px;
+    color: rgb(0, 0, 7);
+    border-radius: 40px;
+    background-color: rgb(130, 166, 197);
+  }
+  .inner2{
+    position: absolute;
+    bottom: 10px;
+    height: 24px;
+    left: 430px;
+    color: rgb(0, 0, 7);
+    border-radius: 40px;
+    background-color: rgb(130, 166, 197);
+  }
+  .inner3{
+    position: absolute;
+    bottom: 10px;
+    height: 24px;
+    left: 740px;
+    color: rgb(0, 0, 7);
+    border-radius: 40px;
+    background-color: rgb(130, 166, 197)
+  }
+  .inner4{
+    position: absolute;
+    bottom: 10px;
+    height: 24px;
+    left: 180vh;
+    color: rgb(0, 0, 7);
+    border-radius: 40px;
+    background-color: rgb(130, 166, 197);
+  }
+  .go button{
+    width: 30vh;
+    height: 15vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(130, 166, 197);
+  }
+  .go{
+    display: flex;
+    justify-content: center;
+    
+  }
+  .go button{
+    color: rgb(3, 3, 3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: 500;
+    border-radius: 4vh;
+    width: 50vh;
+  }
+  .imagediv{
+    background-color:  rgb(214, 227, 227);
+  }
+  .brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

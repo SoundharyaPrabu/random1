@@ -1,0 +1,157 @@
+.imagediv button img {
+  width: 40vh;
+  height: 50vh;
+}
+img {
+  width: 8vh;
+  height: 5vh;
+}
+.div1 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  gap: 50vh;
+}
+.div1 .apt {
+  display: flex;
+  justify-content: space-between;
+  gap: 8vh;
+
+}
+.div1 .apt a {
+  background-color:  rgb(109, 155, 156);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 90px;
+  height: 10vh;
+  width: 10vh;
+}
+
+.stname {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+.stname p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+.men {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#gender {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div6,
+.div7 {
+  position: relative;
+  display: flex;
+  padding: 5vh;
+  gap: 10vh;
+}
+
+.inner1 {
+  position: relative;
+  width: 14vh;
+  height: 24px;
+  bottom: 29px;
+  left: 10px;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(130, 166, 197);
+}
+
+.inner2 {
+  position: relative;
+  width: 14vh;
+  bottom: 30px;
+  height: 24px;
+  left: 10px;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(130, 166, 197);
+}
+
+.inner3 {
+  position: relative;
+  width: 14vh;
+  bottom: 30px;
+  height: 24px;
+  left: 5px;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(130, 166, 197)
+}
+
+.inner4 {
+  position: relative;
+  width: 14vh;
+  bottom: 30px;
+  height: 24px;
+  left: 5px;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(130, 166, 197);
+}
+
+.main {
+  background-color: rgb(214, 227, 227);
+}
+
+.div6 .b9 .viewbutton,
+.div7 .b13 .viewbutton {
+  position: absolute;
+  width: 10vh;
+  height: 4vh;
+  bottom: 60px;
+  left: 200px;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(233, 151, 191);
+}
+
+.div6 .b10 .viewbutton,
+.div7 .b14 .viewbutton {
+  position: absolute;
+  width: 10vh;
+  height: 4vh;
+  bottom: 60px;
+  left: 515px;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(233, 151, 191);
+}
+
+.div6 .b11 .viewbutton,
+.div7 .b15 .viewbutton {
+  position: absolute;
+  width: 10vh;
+  height: 4vh;
+  bottom: 60px;
+  left: 142vh;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(233, 151, 191);
+}
+
+.div6 .b12 .viewbutton,
+.div7 .b16 .viewbutton {
+  position: absolute;
+  width: 10vh;
+  height: 4vh;
+  bottom: 60px;
+  left: 195vh;
+  color: rgb(0, 0, 7);
+  border-radius: 40px;
+  background-color: rgb(233, 151, 191);
+}
